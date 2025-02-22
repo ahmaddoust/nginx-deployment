@@ -1,0 +1,5 @@
+replicaCount: 3
+service:
+  port: 8080
+image:
+  tag: 1.21
