@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/ahmaddoust/nginx-deployment.git
-    path: nginx-chart/nginx
+    path: /nginx-deployment
     targetRevision: HEAD
     helm:
       valueFiles:
